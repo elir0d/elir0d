@@ -33,7 +33,7 @@ Sometimes I appear in some of these, it is a rare event, but it happens.
 <br>
 
  ---
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
