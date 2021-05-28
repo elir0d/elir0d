@@ -7,16 +7,16 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 
   ---
 
-<div style="text-align: center; margin: 5px">
+<div >
     <a href="https://github.com/bulletsentencvanpyre?tab=repositories">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact&count_private=true" width="400" height="200"/>
     </a>
 </div>
 
  
-### Social Media
+<div style="text-align: center; margin-inline: 2px;">Social Media</div>
+<p style="text-align: center; margin-inline: 10px;">You can find me in some of these. Reach me out and let´s be a friends:</p>
 
-You can find me in some of these. Reach me out and let´s be a friends:
 <p>
  </p>
  <br>
