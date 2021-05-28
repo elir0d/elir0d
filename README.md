@@ -1,4 +1,4 @@
-### Hi there I am Leo 👋:computer: 
+### Hi there I am Rodrigo 👋:computer: 
 
 I am currently a student at the Faculdade Impacta de Tecnologia and work as Support Analyst at Teleperformance in Brazil.
 
