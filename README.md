@@ -7,7 +7,7 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 
   ---
 
-<div>
+<div style="text-align: center; margin: 5px">
     <a href="https://github.com/bulletsentencvanpyre?tab=repositories">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact&count_private=true" width="400" height="200"/>
     </a>
@@ -16,7 +16,7 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
  
 ### Social Media
 
-Sometimes I appear in some of these, it is a rare event, but it happens.
+You can find me in some of these. Reach me out and let´s be a friends:
 <p>
  </p>
  <br>
