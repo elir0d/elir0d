@@ -8,7 +8,7 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
   ---
 
 <div >
-    <a href="https://github.com/bulletsentencvanpyre?tab=repositories">
+    <a href="https://github.com/vanpyre?tab=repositories">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact&count_private=true" width="400" height="200"/>
     </a>
 </div>
