@@ -7,10 +7,10 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 
   ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&langs_count=8)](https://github.com/vanpyre/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true)
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true)
 
  
 <div style="display: flex; align-content: center; margin-inline: 2px; font-style: bolder;">Social Media</div>
