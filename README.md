@@ -25,10 +25,4 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 <a href=""><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/elirod.py/" ><img height="30" src="https://user-images.githubusercontent.com/37451620/118635309-cfe24280-b7a9-11eb-89fd-55e69345e871.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rodrigo-trindade-b05b73203/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-
-</p>
-<p></p>
-<br>
-<br>
-
  ---
