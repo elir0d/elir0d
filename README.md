@@ -20,7 +20,7 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
   </div>
 </div>
 
-
+<hr>
 
 <div style="text-align: center; margin-inline: 2px; font-style: bolder;">Social Media</div>
 
