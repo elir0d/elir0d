@@ -12,7 +12,12 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
     </a>
 </div>
 
- ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true)
+
+<div >
+    <a href="(https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact&count_private=true" width="400" height="200"/>
+    </a>
+</div>
 
  ---
  
