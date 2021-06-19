@@ -14,7 +14,7 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 
 <div >
     <a href="(https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true" width="400" height="200"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true" width="500" height="200"/>
     </a>
 </div>
 
