@@ -5,7 +5,8 @@ I am currently a student at the Faculdade Impacta de Tecnologia and work as Supp
 
 Portfolio and Projects: https://rodrigotrindade.netlify.app
 
----
+<hr>
+
 <div style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between">
   <div>
       <a href="https://github.com/vanpyre?tab=repositories">
@@ -22,7 +23,7 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 
 <hr>
 
-<div style="text-align: center; margin-inline: 2px; font-style: bolder;">Social Media</div>
+<div style="align: center; text-align: center; margin-inline: 2px; font-style: bolder;">Social Media</div>
 
 <p align="center"style="text-align: center; margin-inline: 2px; font-style: bold;">You can find me in some of these. Reach me out and let´s be a friends:</p>
 
@@ -34,4 +35,4 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 <a href="https://www.instagram.com/elirod.py/" ><img height="30" src="https://user-images.githubusercontent.com/37451620/118635309-cfe24280-b7a9-11eb-89fd-55e69345e871.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rodrigo-trindade-b05b73203/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
----
+<hr>
