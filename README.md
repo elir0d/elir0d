@@ -7,6 +7,17 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 
   ---
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+ ---
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact)](https://github.com/vanpyre/github-readme-stats)
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true)
