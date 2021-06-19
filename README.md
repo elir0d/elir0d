@@ -6,9 +6,10 @@ I am currently a student at the Faculdade Impacta de Tecnologia and work as Supp
 Portfolio and Projects: https://rodrigotrindade.netlify.app
 
 ---
-
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=default)](https://github.com/vanpyre/github-readme-stats)
+<div >
+    <a href="https://github.com/vanpyre?tab=repositories">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact&count_private=true" width="400" height="200"/>
+    </a>
 </div>
 
  ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true)
