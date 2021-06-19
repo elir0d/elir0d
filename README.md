@@ -7,7 +7,7 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 
 <hr>
 
-<div style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between">
+<div style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around">
   <div>
       <a href="https://github.com/vanpyre?tab=repositories">
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact&count_private=true" width="400" height="200"/>
@@ -21,15 +21,11 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
   </div>
 </div>
 
-<hr>
-
-
 <div>
+<hr>
 <p style="align: center;text-align: center; margin-inline: 2px; font-style: bolder;">Social Media</p>
 
 <p align="center"style="text-align: center; margin-inline: 2px; font-style: bold;">You can find me in some of these. Reach me out and let´s be a friends:</p>
-
-
 
 <p align='center'>
 <a href="https://www.freecodecamp.org/rodrigomacade"><img height="30" src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg"></a>&nbsp;&nbsp;
