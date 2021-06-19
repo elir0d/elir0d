@@ -23,7 +23,9 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 
 <hr>
 
-<div style="align: center; text-align: center; margin-inline: 2px; font-style: bolder;">Social Media</div>
+
+<div>
+<p style="align: center;text-align: center; margin-inline: 2px; font-style: bolder;">Social Media</p>
 
 <p align="center"style="text-align: center; margin-inline: 2px; font-style: bold;">You can find me in some of these. Reach me out and let´s be a friends:</p>
 
@@ -36,3 +38,4 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 <a href="https://www.linkedin.com/in/rodrigo-trindade-b05b73203/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 <hr>
+</div>
