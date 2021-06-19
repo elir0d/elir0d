@@ -5,18 +5,11 @@ I am currently a student at the Faculdade Impacta de Tecnologia and work as Supp
 
 Portfolio and Projects: https://rodrigotrindade.netlify.app
 
-  ---
+---
 
 
-<a href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact)](https://github.com/vanpyre/github-readme-stats)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true)
-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
- ---
+---
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact)](https://github.com/vanpyre/github-readme-stats)
