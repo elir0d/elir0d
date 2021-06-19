@@ -15,6 +15,8 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanpyre)](https://github.com/vanpyre/github-readme-stats)
  
 <div style="display: flex; align-content: center; margin-inline: 2px; font-style: bolder;">Social Media</div>
 <p style="display: inline-block; text-align: center; margin-inline: 2px; font-style: bold;">You can find me in some of these. Reach me out and let´s be a friends:</p>
