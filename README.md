@@ -8,19 +8,17 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 ---
 <div >
     <a href="https://github.com/vanpyre?tab=repositories">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact&count_private=true" width="450" height="200"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact&count_private=true" width="550" height="200"/>
     </a>
 </div>
 
 <div >
     <a href="(https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true" width="450" height="200"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true" width="550" height="200"/>
     </a>
 </div>
 
  ---
-<br>
-<br>
 <div align="center" style="display: flex; align-content: center; margin-inline: 2px; font-style: bolder;">
     <p>Social Medi</p>
     <p align="center"style="display: inline-block; text-align: center; margin-inline: 2px; font-style: bold;">You can find me in some of these. Reach me out and let´s be a friends:</p>
