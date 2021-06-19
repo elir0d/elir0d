@@ -7,9 +7,7 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact)](https://github.com/vanpyre/github-readme-stats)
-
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact)](https://github.com/vanpyre/github-readme-stats)![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true)
 
  ---
  
