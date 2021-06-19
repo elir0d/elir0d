@@ -6,6 +6,7 @@ I am currently a student at the Faculdade Impacta de Tecnologia and work as Supp
 Portfolio and Projects: https://rodrigotrindade.netlify.app
 
 ---
+<div>
 <div >
     <a href="https://github.com/vanpyre?tab=repositories">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact&count_private=true" width="500" height="200"/>
@@ -17,7 +18,7 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true" width="500" height="200"/>
     </a>
 </div>
-
+</div>
  ---
 <div align="center" style="display: flex; align-content: center; margin-inline: 2px; font-style: bolder;">
     <p>Social Medi</p>
