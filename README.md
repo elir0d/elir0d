@@ -16,12 +16,12 @@
     </div>
     <div class="github-stats">
         <a href="https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true">
-          <img  align="right" src="https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true" width="400" height="200"/>
+          <img  align="left" src="https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true" width="400" height="200"/>
         </a>
     </div>
   </div>
 
-  <div class="social-media" align="center"  style="display:flex; flex-direction: column; flex-wrap: wrap">
+  <div class="social-media" align="right"  style="display:flex; flex-direction: column; flex-wrap: wrap">
     <div class="h1-p" style="display:flex; flex-direction: column; flex-wrap: wrap">
       <h2  style=";text-align: center; font-style: bolder; font-weight: bold;">
         Social Media
