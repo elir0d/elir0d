@@ -23,9 +23,9 @@
 
   <div class="social-media" align="center"  style="display:flex; flex-direction: column; flex-wrap: wrap">
     <div class="h1-p" style="display:flex; flex-direction: column; flex-wrap: wrap">
-      <h2  style=";text-align: center; font-style: bolder; font-weight: bold;">
+      <p  style=";text-align: center; font-style: bolder; font-weight: bold;">
        Social Media
-      </h2>
+      </p>
       <p style="text-align: center; margin-inline: 2px; font-style: bold;">
         You can find me in some of these. Reach me out and let´s be a friends:
       </p>
