@@ -22,10 +22,10 @@
   </div>
 
   <div class="social-media" align='center'>
-    <h2 vertical-align="bottom" style=";text-align: center; margin-inline: 2px; font-style: bolder; font-weight: bold; vertical-align:bottom;">
+    <h2 align="justify" style=";text-align: center; margin-inline: 2px; font-style: bolder; font-weight: bold;">
      Social Media
     </h2>
-    <p align="center"style="text-align: center; margin-inline: 2px; font-style: bold;">
+    <p align="justify"style="text-align: center; margin-inline: 2px; font-style: bold;">
       You can find me in some of these. Reach me out and let´s be a friends:
     </p>
     <a href="https://www.freecodecamp.org/rodrigomacade">
