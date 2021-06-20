@@ -22,18 +22,17 @@
   </div>
 
 
-  <div class="social-media" align="justify"  style="display:flex; flex-direction: column; flex-wrap: wrap">
+  <div class="social-media" align="center"  style="display:flex; flex-direction: column; flex-wrap: wrap">
     <div class="h1-p" style="display:flex; flex-direction: column; flex-wrap: wrap">
       <hr>
-      <h2 align="" style=";text-align: center; margin-inline: 2px; font-style: bolder; font-weight: bold;">
+      <h2 align="center" style=";text-align: center; margin-inline: 2px; font-style: bolder; font-weight: bold;">
        Social Media
       </h2>
-      <p align=""style="text-align: center; margin-inline: 2px; font-style: bold;">
+      <p align="center"style="text-align: center; margin-inline: 2px; font-style: bold;">
         You can find me in some of these. Reach me out and let´s be a friends:
       </p>
     </div>
-    <dic align="center" class="media-links" style="display:flex; flex-direction: row; flex-wrap: wrap;   align-items: center;
-  justify-content: center;">
+    <dic align="center" class="media-links" style="display:flex; flex-direction: row; flex-wrap: wrap;   align-items: center;justify-content: center;">
       <a href="https://www.freecodecamp.org/rodrigomacade">
         <img height="30" src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg">
       </a>&nbsp;&nbsp;
