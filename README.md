@@ -22,7 +22,7 @@
   </div>
 
   <div class="social-media" align='center'>
-    <h2 align="center" style=";text-align: center; margin-inline: 2px; font-style: bolder; font-weight: bold;">
+    <h2 vertical-align="bottom" style=";text-align: center; margin-inline: 2px; font-style: bolder; font-weight: bold; vertical-align:bottom;">
      Social Media
     </h2>
     <p align="center"style="text-align: center; margin-inline: 2px; font-style: bold;">
