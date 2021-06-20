@@ -1,9 +1,11 @@
-### Hi there I am Rodrigo 👋:computer: 
+<div>
+  <h1>Hi there I am Rodrigo 👋💻</h1>
+  <p>
+    I am currently a student at the Faculdade Impacta de Tecnologia and work as Support    Analyst at Teleperformance Brazil.
+  </p>
+  <p>Portfolio and Projects: <a>https://rodrigotrindade.netlify.app</a></p>
+</div>
 
-I am currently a student at the Faculdade Impacta de Tecnologia and work as Support Analyst at Teleperformance Brazil.
-
-
-Portfolio and Projects: https://rodrigotrindade.netlify.app
 <div class="wrap" style="display:flex; flex-direction: column; flex-wrap: wrap; justify-content: space-around">
   <hr>
   <div clarr="cards" style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around">
