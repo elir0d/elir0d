@@ -29,7 +29,7 @@
 
 
 
-<hr>
+<hr align="right">
 
 
 
