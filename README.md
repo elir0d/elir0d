@@ -21,7 +21,7 @@
     </div>
   </div>
 
-  <div class="social-media" style="display:flex; flex-direction: column; flex-wrap: wrap">
+  <div class="social-media" style="display:flex; flex-direction: column; flex-wrap: wrap;">
     <div class="h1-p" style="display:flex; flex-direction: column; flex-wrap: wrap">
       <h2  align="" style=";text-align: center; font-style: bolder; font-weight: bold;">
         Social Media
