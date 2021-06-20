@@ -29,7 +29,15 @@
 
 
 
----
+<hr>
+
+
+
+
+
+
+
+
   <div class="social-media" align="center"  style="display:flex; flex-direction: column; flex-wrap: wrap">
     <div class="h1-p" style="display:flex; flex-direction: column; flex-wrap: wrap">
       <h2 align="center" style=";text-align: center; margin-inline: 2px; font-style: bolder; font-weight: bold;">
