@@ -11,20 +11,15 @@
   <div clarr="cards" style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around">
     <div class="most-languages">
         <a href="https://github.com/vanpyre?tab=repositories">
-          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact&count_private=true" width="400" height="200"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact&count_private=true" width="400" height="200"/>
         </a>
     </div>
     <div class="github-stats">
         <a href="https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true">
-          <img align="left" src="https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true" width="400" height="200"/>
+          <img  src="https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true" width="400" height="200"/>
         </a>
     </div>
   </div>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanpyre)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact&count_private=true)](https://github.com/vanpyre/github-readme-stats)
 
   <div class="social-media" align='center'>
     <h2 align="center" style=";text-align: center; margin-inline: 2px; font-style: bolder; font-weight: bold;">
