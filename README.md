@@ -23,12 +23,14 @@
 
   <div class="social-media" style="display:flex; flex-direction: column; flex-wrap: wrap;align-items: center;justify-content: center;">
       <div>
-        <h2  align="" style=";text-align: center; font-style: bolder; font-weight: bold;">
-          Social Media
-        </h2>
-        <p style="text-align: center; margin-inline: 2px; font-style: bold;">
-          You can find me in some of these. Reach me out and let´s be a friends:
-        </p>
+        <a href="null"style=";text-align: center; font-style: bolder; font-weight: bold;">
+          <h2  align="" style=";text-align: center; font-style: bolder; font-weight: bold;">
+            Social Media
+          </h2>
+          <p style="text-align: center; margin-inline: 2px; font-style: bold;">
+            You can find me in some of these. Reach me out and let´s be a friends:
+          </p>
+        </a>
       </div>
     <div align="" class="media-links" style="display:flex; flex-direction: row; flex-wrap: wrap; align-items: center;justify-content: center;">
       <a href="https://www.freecodecamp.org/rodrigomacade">
