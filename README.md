@@ -22,7 +22,7 @@ Portfolio and Projects: https://rodrigotrindade.netlify.app
 </div>
 
 <div>
-<p align="center" style=";text-align: center; margin-inline: 2px; font-style: bolder; text-style: bold;">Social Media</p>
+<h2 align="center" style=";text-align: center; margin-inline: 2px; font-style: bolder; font-weight: bold;">Social Media</h2>
 
 <p align="center"style="text-align: center; margin-inline: 2px; font-style: bold;">You can find me in some of these. Reach me out and let´s be a friends:</p>
 
