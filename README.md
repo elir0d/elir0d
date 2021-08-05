@@ -10,13 +10,13 @@
   <hr>
   <div clarr="cards" style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around">
     <div class="most-languages">
-        <a href="https://github.com/vanpyre?tab=repositories">
-          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanpyre&layout=compact&count_private=true" width="400" height="200"/>
+        <a href="https://github.com/elir0d?tab=repositories">
+          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elir0d&layout=compact&count_private=true" width="400" height="200"/>
         </a>
     </div>
     <div class="github-stats">
-        <a href="https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true">
-          <img  align="right" src="https://github-readme-stats.vercel.app/api?username=vanpyre&show_icons=true" width="400" height="200"/>
+        <a href="https://github-readme-stats.vercel.app/api?username=elir0d&show_icons=true">
+          <img  align="right" src="https://github-readme-stats.vercel.app/api?username=elir0d&show_icons=true" width="400" height="200"/>
         </a>
     </div>
   </div>
