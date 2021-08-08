@@ -1,22 +1,22 @@
 <div>
   <h1>Hi there! I am Rodrigo 👋💻</h1>
   <p>
-    I am currently a student at the Faculdade Impacta de Tecnologia and work as Support    Analyst at Teleperformance Brazil.
+    I am currently a student at the Faculdade Impacta de Tecnologia and work as Support Analyst at Teleperformance Brazil.
   </p>
   <p>Portfolio and Projects: <a href="https://rodrigotrindade.netlify.app">Click here!</a></p>
 </div>
 
 <div class="wrap" style="display:flex; flex-direction: column; flex-wrap: wrap; justify-content: space-around">
   <hr>
-  <div clarr="cards" style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around">
+  <div class="cards" style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around">
     <div class="most-languages">
         <a href="https://github.com/elir0d?tab=repositories">
-          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elir0d&layout=compact&count_private=true" width="400" height="200"/>
+          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elir0d&count_private=true&layout=compact" width="400" height="200"/>
         </a>
     </div>
     <div class="github-stats">
         <a href="https://github-readme-stats.vercel.app/api?username=elir0d&show_icons=true">
-          <img  align="right" src="https://github-readme-stats.vercel.app/api?username=elir0d&show_icons=true" width="400" height="200"/>
+          <img  align="right" src="https://github-readme-stats.vercel.app/api?username=elir0d&count_private=true&show_icons=true" width="400" height="200"/>
         </a>
     </div>
   </div>
