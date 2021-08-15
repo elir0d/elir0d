@@ -11,7 +11,7 @@
   <div class="cards" style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around">
     <div class="most-languages">
         <a href="https://github.com/elir0d?tab=repositories">
-          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elir0d&count_private=true&layout=compact" width="400" height="200"/>
+          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elir0d&count_private=true&layout=compact" width="420" height="200"/>
         </a>
     </div>
     <div class="github-stats">
