@@ -6,7 +6,7 @@
   <p>Portfolio and Projects: <a href="https://rodrigotrindade.netlify.app">Click here!</a></p>
 </div>
 
-<div class="wrap" style="display:flex; flex-direction: column; flex-wrap: wrap; justify-content: space-around">
+<div class="wrap" style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between">
   <hr>
   <div class="cards" style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around">
     <div class="most-languages">
@@ -16,10 +16,11 @@
     </div>
     <div class="github-stats">
         <a href="https://github-readme-stats.vercel.app/api?username=elir0d&show_icons=true">
-          <img  align="right" src="https://github-readme-stats.vercel.app/api?username=elir0d&count_private=true&show_icons=true" width="400" height="200"/>
+          <img  align="left" src="https://github-readme-stats.vercel.app/api?username=elir0d&count_private=true&show_icons=true" width="400" height="200"/>
         </a>
     </div>
   </div>
+  
   <div align="center" class="social-media" style="display:flex; flex-direction: row; flex-wrap: wrap;align-items: center;justify-content: center;align-items: center">
       <div>
         <h2  align="" style=";text-align: center; font-style: bolder; font-weight: bold;">
@@ -29,7 +30,7 @@
           You can find me in some of these. Reach me out and let´s be a friends:
         </p>
       </div>
-    <div align="" class="media-links" style="display:flex; flex-direction: row; flex-wrap: wrap; align-items: center;justify-content: center;">
+    <div align="" class="media-links" style="display:flex; flex-direction: collumn; flex-wrap: wrap; align-items: center;justify-content: center; text-align: center;">
       <a href="https://www.freecodecamp.org/rodrigomacade">
         <img height="30" src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg">
       </a>&nbsp;&nbsp;
@@ -43,4 +44,5 @@
     </div>
   </div>
   <hr>
+  
 </div>
