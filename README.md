@@ -7,21 +7,21 @@
 </div>
   <hr>
 
-<div class="wrap" style="display:flex; flex-direction: collumn; flex-wrap: wrap; justify-content: space-between;">
+<div class="wrap" style="display:flex; flex-direction: collumn; flex-wrap: wrap; justify-content: space-around;">
   <div class="cards" style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between">
     <div class="most-languages">
         <a href="https://github.com/elir0d?tab=repositories">
-          <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elir0d&count_private=true&layout=compact" width="100%" height="auto"/></div>
+          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elir0d&count_private=true&layout=compact" width="400" height="200"/>
         </a>
     </div>
     <div class="github-stats">
         <a href="https://github-readme-stats.vercel.app/api?username=elir0d&show_icons=true">
-          <div><img  align="right" src="https://github-readme-stats.vercel.app/api?username=elir0d&count_private=true&show_icons=true" width="100%" height="auto"/></div>
+          <img  align="right" src="https://github-readme-stats.vercel.app/api?username=elir0d&count_private=true&show_icons=true" width="400" height="200"/>
         </a>
     </div>
   </div>
 
-  <div align="center" class="social-media" style="display:flex; flex-direction: collumn; flex-wrap: wrap;align-items: center;justify-content: center;align-items: center;width=100% height=200px;">
+  <div align="right" class="social-media" style="display:flex; flex-direction: collumn; flex-wrap: wrap;align-items: center;justify-content: center;align-items: center;width=100% height=200px;">
       <div>
         <h2  align="" style=";text-align: center; font-style: bolder; font-weight: bold;">
           Social Media
