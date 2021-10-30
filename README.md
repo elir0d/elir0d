@@ -6,7 +6,7 @@
   <p>Portfolio and Projects: <a href="https://rodrigotrindade.netlify.app">Click here!</a></p>
 </div>
 
-<div class="wrap" style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between">
+<div class="wrap" style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-evenly;">
   <hr>
   <div class="cards" style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around">
     <div class="most-languages">
@@ -16,11 +16,16 @@
     </div>
     <div class="github-stats">
         <a href="https://github-readme-stats.vercel.app/api?username=elir0d&show_icons=true">
-          <img  align="left" src="https://github-readme-stats.vercel.app/api?username=elir0d&count_private=true&show_icons=true" width="400" height="200"/>
+          <img  align="right" src="https://github-readme-stats.vercel.app/api?username=elir0d&count_private=true&show_icons=true" width="400" height="200"/>
         </a>
     </div>
   </div>
   
+
+  <hr>
+  
+</div>
+
   <div align="center" class="social-media" style="display:flex; flex-direction: row; flex-wrap: wrap;align-items: center;justify-content: center;align-items: center">
       <div>
         <h2  align="" style=";text-align: center; font-style: bolder; font-weight: bold;">
@@ -43,6 +48,3 @@
       </a>
     </div>
   </div>
-  <hr>
-  
-</div>
