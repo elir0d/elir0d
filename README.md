@@ -23,7 +23,7 @@
 
   <div  class="social-media" align="right" style="display:flex; flex-direction: collumn; flex-wrap: wrap;align-items: center;justify-content: center;align-items: center;width=100% height=200px; text-align: center">
       <div>
-        <h2  align="" style=";text-align: center; font-style: bolder; font-weight: bold;">
+        <h2  align="center" style=";text-align: center; font-style: bolder; font-weight: bold;">
           Social Media
         </h2>
         <p style="text-align: center; margin-inline: 2px; font-style: bold;">
