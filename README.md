@@ -16,7 +16,7 @@
     </div>
     <div class="github-stats">
         <a href="https://github-readme-stats.vercel.app/api?username=elir0d&show_icons=true">
-          <div><img  align="" src="https://github-readme-stats.vercel.app/api?username=elir0d&count_private=true&show_icons=true" width="400" height="200"/></div>
+          <div><img  align="left" src="https://github-readme-stats.vercel.app/api?username=elir0d&count_private=true&show_icons=true" width="400" height="200"/></div>
         </a>
     </div>
   </div>
