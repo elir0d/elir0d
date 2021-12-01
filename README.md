@@ -1,7 +1,7 @@
 <div>
   <h1>Hi there! I am Rodrigo 👋💻</h1>
   <p>
-    I am currently a student at the Faculdade Impacta de Tecnologia and work as Support Analyst at Teleperformance Brazil.
+    I am currently a student at the Faculdade Impacta de Tecnologia and work as Support Analyst.
   </p>
   <p>Portfolio and Projects: <a href="https://rodrigotrindade.netlify.app">Click here!</a></p>
 </div>
