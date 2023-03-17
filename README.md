@@ -1,7 +1,7 @@
 <div>
   <h1>Hi there! I am Rodrigo 👋💻</h1>
   <p>
-    I am currently a Data Science and Analytics student at University of São Paulo ESALQ and work as Support Analyst.
+    I am currently a Data Science and Analytics student at University of São Paulo ESALQ and work as Application Support Analyst.
   </p>
   <p>Portfolio and Projects: <a href="https://rodrigotrindade.netlify.app">Click here!</a></p>
 </div>
