@@ -4,14 +4,15 @@
 
 <div align="center">
     <h3>My Stack</h3>
-    <img alt="Typescript" width="35px" src="assets/icons/ts.png" /> 
-    <img alt="JavaScript" width="35px" src="assets/icons/js.png" />
-    <img alt="Node.js" width="35px" src="assets/icons/nodejs.png" />
-    <img alt="C#" width="35px" src="assets/icons/csharp.png" />
-    <img alt="Visual Studio Code" width="35px" src="assets/icons/vscode.png" />
-    <img alt="sql" width="35px" src="assets/icons/sql.png" />
-    <img alt="git" width="35px" src="assets/icons/git.png" />
-    <img alt="docker" width="40px" src="assets/icons/docker.png" />
+    <img alt="Python" width="35px" src="assets/icons/python.svg" /> 
+    <img alt="R" width="35px" src="assets/icons/r.svg" />
+    <img alt="Numpy" width="35px" src="assets/icons/numpy.svg" />
+    <img alt="Pandas" width="35px" src="assets/icons/pandas.svg" />
+    <img alt="PowerBI" width="35px" src="assets/icons/powerbi.svg" />
+    <img alt="Scikit-Learn" width="35px" src="assets/icons/scikitlearn.svg" />
+    <img alt="Tensorflow" width="35px" src="assets/icons/tensorflow.svg" />
+    <img alt="Azure" width="40px" src="assets/icons/microsoftazure.svg" />
+    <img alt="docker" width="40px" src="assets/icons/docker.svg" />
     <br/>
     <h3 align="center">You can find me in some of these. Reach me out and let´s be a friends</h3>
     <a href="https://www.linkedin.com/in/rodrigo-trindade-b05b73203/"> 
