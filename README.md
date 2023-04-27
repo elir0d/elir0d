@@ -18,7 +18,7 @@
     <a href="https://www.linkedin.com/in/rodrigo-trindade-b05b73203/"> 
          <img target="_blank" alt="Rodrigo | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-trindade-b05b73203/" />
     </a>
-    <a href="https://instagram.com/elirod"> 
+    <a href="https://instagram.com/elir0d"> 
         <img  alt="Rodrigo | Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/elir0d" />
     </a>
     <a href="mailto:rodrigomacade@gmailcom">
@@ -27,8 +27,11 @@
       <a href="https://twitter.com/elir0d">
         <img alt="Rodrigo | Gmail" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&color=1DA1F2&logoColor=white&link=https://twitter.com/elir0d" />
     </a>
-      <a href="https://www.freecodecamp.org/rodrigomacade">
+    <a href="https://www.freecodecamp.org/rodrigomacade">
         <img alt="Rodrigo | FreeCodeCamp" src="https://img.shields.io/badge/FreeCodeCamp-D14836?style=for-the-badge&logo=freecodecamp&color=0A0A23&logoColor=white&link=https://www.freecodecamp.org/rodrigomacade" />
+    </a>
+    <a href="https://dev.to/elir0d">
+        <img alt="Rodrigo | Dev" src="https://img.shields.io/badge/dev-D14836?style=for-the-badge&logo=devdotto&color=0A0A0A&logoColor=white&link=https://dev.to/elir0d" />
     </a>
      <br/>
 </div>
@@ -36,8 +39,8 @@
 <br/>
 
 <p align="center">
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elir0d&langs_count=8&layout=compact&theme=blueberry" alt="Rodrigo :: Top Langs" />
-    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=elir0d&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Rodrigo :: Top Langs" />
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elir0d&langs_count=8&layout=compact&theme=light" alt="Rodrigo :: Top Langs" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=elir0d&theme=light&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Rodrigo :: Top Langs" />
 </p>
             
 <br />
