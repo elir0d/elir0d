@@ -1,6 +1,6 @@
 <!-- <img src="https://i.ibb.co/vJRFCv8/cover.png" /> -->
 
-<p align="center">I am currently a Data Science and Analytics student at University of São Paulo and work as Application Support Analyst</b> </p>
+<p align="center">I am currently a Data Science student at University of São Paulo and work as Application Support Analyst</b> </p>
 
 <div align="center">
     <h3>My Stack</h3>
