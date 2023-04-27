@@ -39,8 +39,8 @@
 <br/>
 
 <p align="center">
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elir0d&langs_count=8&layout=compact&theme=blueberry" alt="Rodrigo :: Top Langs" />
-    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=elir0d&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Rodrigo :: Top Langs" />
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elir0d&langs_count=8&layout=compact&theme=light" alt="Rodrigo :: Top Langs" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=elir0d&theme=light&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Rodrigo :: Top Langs" />
 </p>
             
 <br />
