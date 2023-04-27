@@ -4,7 +4,7 @@
 
 <div align="center">
     <h3>My Stack</h3>
-    <img alt="Typescript" width="35px" src="assets/icons/ts.png" />
+    <img alt="Typescript" width="35px" src="assets/icons/ts.png" /> 
     <img alt="JavaScript" width="35px" src="assets/icons/js.png" />
     <img alt="Node.js" width="35px" src="assets/icons/nodejs.png" />
     <img alt="C#" width="35px" src="assets/icons/csharp.png" />
