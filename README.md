@@ -48,7 +48,7 @@
 
 <!-- <img src="https://i.ibb.co/vJRFCv8/cover.png" /> -->
 
-<p align="center">Apreciador de um bom café ☕ e leitor em horas livres. <br/> <b> Minha paixão é cada vez mais desenvolver códigos de qualidade! </b> </p>
+<p align="center">I am currently a Data Science and Analytics student at University of São Paulo and work as Application Support Analyst</b> </p>
 
 <div align="center">
     <h3>Algumas tecnologias que atuo</h3>
@@ -77,12 +77,14 @@
 <br/>
 
 <p align="center">
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuliomiguel&langs_count=8&layout=compact&theme=blueberry" alt="Julio :: Top Langs" />
-    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ojuliomiguel&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Julio :: Top Langs" />
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elir0d&langs_count=8&layout=compact&theme=blueberry" alt="Rodrigo :: Top Langs" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=elir0d&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Rodrigo :: Top Langs" />
 </p>
             
 <br />
 
-[twitter]: https://twitter.com/ojuliomiguel
-[gmail]: mailto:juliomiguelsouzacosta@gmailcom
-[instagram]: https://www.instagram.com/solidcode42
+[twitter]: https://twitter.com/elir0d
+[gmail]: mailto:rodrigomacade@gmailcom
+[instagram]: https://www.instagram.com/elir0d
+[freecodecamp]: 
+[linkedin]: https://www.linkedin.com/in/rodrigo-trindade-b05b73203/
