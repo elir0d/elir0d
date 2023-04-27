@@ -3,7 +3,7 @@
 <p align="center">I am currently a Data Science and Analytics student at University of São Paulo and work as Application Support Analyst</b> </p>
 
 <div align="center">
-    <h3>Algumas tecnologias que atuo</h3>
+    <h3>My Stack</h3>
     <img alt="Typescript" width="35px" src="assets/icons/ts.png" />
     <img alt="JavaScript" width="35px" src="assets/icons/js.png" />
     <img alt="Node.js" width="35px" src="assets/icons/nodejs.png" />
@@ -13,7 +13,7 @@
     <img alt="git" width="35px" src="assets/icons/git.png" />
     <img alt="docker" width="40px" src="assets/icons/docker.png" />
     <br/>
-    <h3 align="center">Me encontre em</h3>
+    <h3 align="center">You can find me in some of these. Reach me out and let´s be a friends</h3>
     <a href="https://www.linkedin.com/in/rodrigo-trindade-b05b73203/"> 
          <img target="_blank" alt="Rodrigo | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-trindade-b05b73203/" />
     </a>
