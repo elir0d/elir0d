@@ -1,9 +1,9 @@
 <!-- <img src="https://i.ibb.co/vJRFCv8/cover.png" /> -->
 
-<p align="center">I am currently a Data Science student at University of São Paulo and work as Application Support Analyst</b> </p>
-
+<p align="center">I am currently a Data Science student at University of São Paulo and work as Application Support Analyst.</p>
+<br />
 <div align="center">
-    <p>My Stack</p>
+    <p>This is my Stack</p>
     <img alt="Python" width="35px" src="assets/icons/python.svg" /> 
     <img alt="R" width="35px" src="assets/icons/r.svg" />
     <img alt="Numpy" width="35px" src="assets/icons/numpy.svg" />
