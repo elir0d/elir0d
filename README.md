@@ -1,9 +1,9 @@
 <!-- <img src="https://i.ibb.co/vJRFCv8/cover.png" /> -->
 
-<h3 align="center">I am currently a Data Science student at University of São Paulo and work as Application Support Analyst</b> </h3>
+<p align="center">I am currently a Data Science student at University of São Paulo and work as Application Support Analyst</b> </p>
 
 <div align="center">
-    <h3>My Stack</h3>
+    <p>My Stack</p>
     <img alt="Python" width="35px" src="assets/icons/python.svg" /> 
     <img alt="R" width="35px" src="assets/icons/r.svg" />
     <img alt="Numpy" width="35px" src="assets/icons/numpy.svg" />
@@ -13,8 +13,9 @@
     <img alt="Tensorflow" width="35px" src="assets/icons/tensorflow.svg" />
     <img alt="Azure" width="40px" src="assets/icons/microsoftazure.svg" />
     <img alt="docker" width="40px" src="assets/icons/docker.svg" />
-    <br/>
-    <h3 align="center">You can find me in some of these. Reach me out and let´s be a friends</h3>
+    <br />
+    <br />
+    <p align="center">You can find me in some of these. Reach me out and let´s be a friends</p>
     <a href="https://www.linkedin.com/in/rodrigo-trindade-b05b73203/"> 
          <img target="_blank" alt="Rodrigo | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-trindade-b05b73203/" />
     </a>
