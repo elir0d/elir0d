@@ -4,7 +4,8 @@
 <br />
 <div align="center">
     <p>This is my Stack</p>
-    <img alt="Python" width="35px" src="assets/icons/python.svg" /> 
+    <!--<img alt="Python" width="35px" src="assets/icons/python.svg" />-->
+    <img alt="Python" width="35px" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor" /> 
     <img alt="R" width="35px" src="assets/icons/r.svg" />
     <img alt="Numpy" width="35px" src="assets/icons/numpy.svg" />
     <img alt="Pandas" width="35px" src="assets/icons/pandas.svg" />
